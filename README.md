@@ -1,5 +1,6 @@
 # lxc-api
 Small api for manipulation containers which should help with day-to-day tasks and monitoring states.
+Python based bindings + bottle for api.
 
 Operations
 * list containers
